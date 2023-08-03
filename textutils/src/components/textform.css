@@ -1,0 +1,21 @@
+.formcontainer{
+    display:flex;
+    flex-direction: column;
+    background-color: rgba(3, 1, 16, 0.907);
+    margin:20px;
+    padding:20px;
+    color:white;
+}
+
+.btn{
+    margin-left:5px;
+    padding:4px;
+    font-size: 15px;
+    color:white;
+    background-color: blue;
+    border-radius: 20px;
+}
+.textarea{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}

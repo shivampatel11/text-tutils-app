@@ -1,0 +1,23 @@
+
+.container{
+    display:flex;
+    text-align: center;
+    background-color: rgb(2, 2, 22);
+    justify-content:space-between;
+    padding:05px 20px;
+}
+ .title{
+      font-size: 30px;
+      text-decoration: none;
+      color: beige;
+ }
+
+ .homes{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin-left: 15px;
+ }
+
+ 
+
